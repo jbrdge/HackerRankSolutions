@@ -1,0 +1,4 @@
+-- github.com/jbrdge
+
+SELECT NAME FROM CITY
+WHERE COUNTRYCODE = 'JPN';
