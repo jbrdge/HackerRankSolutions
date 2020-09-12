@@ -21,3 +21,4 @@
 |15|Basic Select|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Select/WeatherObservationStation12.sql)|
 |15|Basic Select|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Select/WeatherObservationStation12.sql)|
 |10|Basic Select|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Select/EmployeeNames.sql)|
+|10|Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Select/EmployeeSalaries.sql)|
