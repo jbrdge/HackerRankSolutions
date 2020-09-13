@@ -23,3 +23,4 @@
 |10|Basic Select|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Select/EmployeeNames.sql)|
 |10|Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Select/EmployeeSalaries.sql)|
 |20|Advanced Select|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Advanced%20Select/TypeofTriangle.sql)|
+|30|Advanced Select|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Advanced%20Select/ThePADS.sql)|
