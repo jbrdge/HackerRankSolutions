@@ -24,3 +24,7 @@
 |10|Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Select/EmployeeSalaries.sql)|
 |20|Advanced Select|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Advanced%20Select/TypeofTriangle.sql)|
 |30|Advanced Select|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Advanced%20Select/ThePADS.sql)|
+|10|Basic Join|[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Join/AsianPopulation.sql)|
+|10|Basic Join|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Join/AfricanCities.sql)|
+|10|Basic Join|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Join/AveragePopulationofEachContinent.sql)|
+|20|Basic Join|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Join/TheReport.sql)|
