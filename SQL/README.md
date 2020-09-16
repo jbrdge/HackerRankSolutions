@@ -42,4 +42,4 @@
 |15|Aggregation|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/weatherObservationStation15.sql)|
 |10|Aggregation|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/weatherObservationStation16.sql)|
 |15|Aggregation|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/weatherObservationStation17.sql)|
-|30|Advanced Select|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/binarySearchTree1.sql)|
+|30|Advanced Select|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/AdvanceSelect/binarySearchTree1.sql)|
