@@ -34,3 +34,5 @@
 |10|Aggregation|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/japanPopulation.sql)|
 |10|Aggregation|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/populationDensityDifference.sql)|
 |15|Aggregation|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/theBlunder.sql)|
+|10|Aggregation|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/revisingAggregationsTheCountFunction.sql)|
+|20|Aggregation|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/topEarners.sql)|
