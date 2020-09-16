@@ -30,3 +30,4 @@
 |20|Basic Join|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Basic%20Join/TheReport.sql)|
 |10|Aggregation|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/revisingAggregationsSum.sql)|
 |10|Aggregation|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/revisingAggregationsTheAverageFunction.sql)|
+|10|Aggregation|[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/averagePopulation.sql)|

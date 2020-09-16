@@ -1,0 +1,4 @@
+-- github.com/jbrdge
+
+SELECT FLOOR(AVG(POPULATION))
+FROM CITY;
