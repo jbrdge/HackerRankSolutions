@@ -1,0 +1,4 @@
+-- github.com/jbrdge
+
+SELECT MAX(POPULATION)-MIN(POPULATION) AS Diff
+FROM CITY;

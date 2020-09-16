@@ -1,0 +1,5 @@
+-- gituhb.com/jbrdge
+
+SELECT SUM(POPULATION)
+FROM CITY
+WHERE COUNTRYCODE = 'JPN';

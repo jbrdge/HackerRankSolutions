@@ -31,3 +31,6 @@
 |10|Aggregation|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/revisingAggregationsSum.sql)|
 |10|Aggregation|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/revisingAggregationsTheAverageFunction.sql)|
 |10|Aggregation|[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/averagePopulation.sql)|
+|10|Aggregation|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/japanPopulation.sql)|
+|10|Aggregation|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/populationDensityDifference.sql)|
+|15|Aggregation|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|[Solution](https://github.com/jbrdge/HackerRankSolutions/blob/master/SQL/Aggregation/theBlunder.sql)|
